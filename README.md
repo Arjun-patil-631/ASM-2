@@ -46,7 +46,7 @@ To make placement preparation simple, structured, and accessible for every stude
 | Name 
 |------
 | Arjun Patil 
-| Shakib 
+| Mohammed Shakib 
 | Moin 
 
 ---
