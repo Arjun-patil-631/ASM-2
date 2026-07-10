@@ -15,7 +15,7 @@ Prepare for coding interviews, internships, placements, hackathons, and aptitude
 - 📹 Video Explanations
 - 📊 Progress Tracking
 - 🏆 Mock Tests
-- 📚 Interview Preparation
+- 📚 Interviews Preparation
 
 ---
 
