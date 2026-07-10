@@ -35,18 +35,18 @@ Prepare for coding interviews, internships, placements, hackathons, and aptitude
 
 ---
 
-## 🎯 Vision
+## 🎯 Vision ##
 
 To make placement preparation simple, structured, and accessible for every student.
 
 ---
 
-## 👥 Team
+## 👥 Team ##
 
 | Name 
 |------
 | Arjun Patil 
-| Shakib 
+| Mohammed Shakib 
 | Moin 
 
 ---
