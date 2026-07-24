@@ -1,4 +1,4 @@
-# ASM-2
+# TECHNIVE
 # 🚀 CodeBridge
 
 > Your complete placement companion.
